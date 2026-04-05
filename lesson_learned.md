@@ -2,9 +2,8 @@
 
 Proiect: Lab_06 — mini CMS (articles)
 
-## Linku-uri utile:
+## Link-uri utile:
 
-- GitHub: <link-repository> https://github.com/Iustinian04/PAW---MVC
 - Video demo: <link-video> https://youtu.be/mtYeYSECxwg
 
 ---
