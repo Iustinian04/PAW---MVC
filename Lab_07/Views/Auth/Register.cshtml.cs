@@ -1,0 +1,12 @@
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
+namespace Lab07.Views.Auth
+{
+    public class RegisterModel : PageModel
+    {
+        public void OnGet()
+        {
+        }
+    }
+}

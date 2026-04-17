@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|c:\\daniel\\ore\\daw-2025-2026\\labs\\lab07\\lab07_start\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|c:\\daniel\\ore\\daw-2025-2026\\labs\\lab07\\lab07_start\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|c:\\daniel\\ore\\daw-2025-2026\\labs\\lab07\\lab07_start\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|c:\\daniel\\ore\\daw-2025-2026\\labs\\lab07\\lab07_start\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|c:\\daniel\\ore\\daw-2025-2026\\labs\\lab07\\lab07_start\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|c:\\daniel\\ore\\daw-2025-2026\\labs\\lab07\\lab07_start\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|c:\\daniel\\ore\\daw-2025-2026\\labs\\lab07\\lab07_start\\migrations\\20260405191534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7037DD0-C125-4C2D-8AC7-98E075FA896A}|Lab07.csproj|solutionrelative:migrations\\20260405191534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T19:16:34.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260405191534_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Migrations\\20260405191534_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260405191534_InitialCreate.cs",
+              "ToolTip": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Migrations\\20260405191534_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260405191534_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T19:15:34.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T19:13:51.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Models\\Article.cs",
+              "ToolTip": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Models\\Article.cs",
+              "RelativeToolTip": "Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T19:13:36.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T19:13:34.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T19:13:31.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Daniel\\ore\\DAW-2025-2026\\labs\\lab07\\Lab07_start\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T19:13:24.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
